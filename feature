@@ -1,1 +1,2 @@
-conflict to occur
+feature 2
+
